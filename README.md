@@ -83,10 +83,10 @@ The **Support Vector Machine** achived the highest overall performance, making i
 ```
 Heart_Disease_Prediction/
 |
-|-- Heart_Disease_Prediction.ipynb # Main Jupyter Notebook
-|-- HeatDisease.xls                # Dataset file
-|-- README.md                      # Project overview and documentation
-|-- requirements.txt               # Python dependencies
+|── Heart_Disease_Prediction.ipynb # Main Jupyter Notebook
+|── HeatDisease.xls                # Dataset file
+|── README.md                      # Project overview and documentation
+|── requirements.txt               # Python dependencies
 ```
 ## Author
 
