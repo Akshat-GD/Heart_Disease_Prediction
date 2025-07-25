@@ -21,7 +21,7 @@ The project follows a strucutured machine learning pipeline:
 load essential python libraries such as `pandas`, `numpy`, `matplotlib`, `seaborn` and `scikit-learn` for data handling, visualization and modeling.
 
 2. **Load Dataset**<br>
-Read the dataset into a Pandas DataFrame and inspect its structure using `.head()`, `.info()`, and `describe()` to understand feature types and distributions.
+Read the dataset into a Pandas DataFrame and inspect its structure using `.head()`, `.info()`, and `.describe()` to understand feature types and distributions.
 
 3. **Exploratory Data Analysis (EDA)**<br>
    - Visualize feature distribution and relationships using histograms, bar plots, and pair plots.
